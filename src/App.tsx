@@ -51,7 +51,7 @@ function App() {
           />
           <Route
             path="/"
-            element={<TextForm showAlert={showAlert} heading="Try TextUtils - Word Counter, Character Counter, Remove Extra Spaces" mode={mode} />}
+            element={<TextForm showAlert={showAlert} heading="Try TextPro - Word Counter, Character Counter, Remove Extra Spaces" mode={mode} />}
           />
           <Route
             path="/TypingTest"
